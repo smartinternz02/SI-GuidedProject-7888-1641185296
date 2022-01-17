@@ -2,4 +2,7 @@
 
 College Management Application
 
-Salesforce
+Salesforce Project Ready
+
+
+SalesForce, Apex, LWC
